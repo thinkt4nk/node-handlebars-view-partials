@@ -1,0 +1,8 @@
+{
+    "name": "node-handlebars-view-partials"
+  , "version": "0.0.1"
+  , "private": false
+  , "dependencies": {
+			"handlebars": ">= 0.0.1"
+  }
+}
